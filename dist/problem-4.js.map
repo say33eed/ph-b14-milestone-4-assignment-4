@@ -1,1 +1,1 @@
-{"version":3,"file":"problem-4.js","sourceRoot":"","sources":["../src/problem-4.ts"],"names":[],"mappings":""}
+{"version":3,"file":"problem-4.js","sourceRoot":"","sources":["../src/problem-4.ts"],"names":[],"mappings":";;AAIA,SAAS,gBAAgB,CAAC,KAAY;IAClC,IAAG,KAAK,KAAK,KAAK,EAAC,CAAC;QAChB,OAAO,MAAM,CAAC;IAClB,CAAC;IAED,IAAG,KAAK,KAAK,QAAQ,EAAC,CAAC;QACnB,OAAO,WAAW,CAAC;IACvB,CAAC;IAED,OAAO,IAAI,CAAC;AAChB,CAAC"}
